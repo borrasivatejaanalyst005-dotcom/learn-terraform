@@ -22,4 +22,3 @@ resource "aws_security_group" "dynamic" {
   tags = {
     Name = "dynamic-demo"
   }
-}
